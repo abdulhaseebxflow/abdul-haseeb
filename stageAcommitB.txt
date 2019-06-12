@@ -1,0 +1,2 @@
+This file is created to perform git task point 7
+This file will be staged to branch A but changes will be committed in branch B
